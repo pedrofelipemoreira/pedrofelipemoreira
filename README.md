@@ -16,6 +16,7 @@ Fico feliz em tê-lo(a) no meu perfil do GitHub!
   <img align="center" alt="Pedro-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-Node" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Pedro-MongoDB" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Pedro-Nodemon" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg">
   <img align="center" alt="Pedro-Python" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
