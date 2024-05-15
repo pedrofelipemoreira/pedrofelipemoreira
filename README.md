@@ -1,3 +1,7 @@
+# Olá, eu sou a Pedro Felipe! 👋
+
+Fico feliz em tê-lo(a) no meu perfil do GitHub!
+
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 	<br>
@@ -5,13 +9,6 @@
 </div>
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
-
-### Olá eu sou o Pedro Felipe
-
-
-- 🌱 Estudando JavaScript, HTML, CSS, Java
-- 👯 Em busca do meu primeiro Emprego para aquisição de experiência
-- 😄 Pronouns: Ele/Dele
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
