@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/1021513428579405916/1062079589540696065/Design_sem_nome-removebg-preview.png" alt="Eu em polvo">
+ <img align="right" height="200" width="200" src="https://drive.google.com/file/d/1nYZFfIKp4cbrk2dP8SqkZKRhvkf1ceqP/view?usp=sharing" alt="Eu em polvo">
 </div>
   
   ##
