@@ -1,6 +1,6 @@
 ### Olá eu sou o Pedro Felipe
 
-![snake gif](https://github.com/pedrofelipemoreira/pedrofelipemoreira/blob/output/github-contribution-grid-snake.gif)
+
 
 ### oii
 
