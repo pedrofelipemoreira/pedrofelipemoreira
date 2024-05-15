@@ -4,6 +4,7 @@
 	<br>
 </div>
 
+**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
 ### Olá eu sou o Pedro Felipe
 
