@@ -1,9 +1,6 @@
 ### Olá eu sou o Pedro Felipe
 
 
-
-### oii
-
 - 🌱 Estudando JavaScript, HTML, CSS, Java
 - 👯 Em busca do meu primeiro Emprego para aquisição de experiência
 - 😄 Pronouns: Ele/Dele
@@ -18,7 +15,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/1240310922086453373/1240310978810220634/png-transparent-free-pic-web-design-label-text-thumbnail.png?ex=6646191d&is=6644c79d&hm=1910fee795c5ff6b65dca01d46b3586f69e377439337bede6ac85f1b4fa618ae&=&format=webp&quality=lossless" alt="Eu em polvo">
+ <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/1240310922086453373/1240311943835680818/porco_nave_espacial.png?ex=66461a03&is=6644c883&hm=514e9675e75813418f5b564a2fbc0239f81a1934379d8140a1b114509224feb4&=&format=webp&quality=lossless" alt="Eu em polvo">
 </div>
   
   ##
