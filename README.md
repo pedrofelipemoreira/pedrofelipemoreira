@@ -2,7 +2,9 @@
 
 Fico feliz em tê-lo(a) no meu perfil do GitHub!
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 4º período. Constantemente envolvida em projetos para solidificar meus conhecimentos, estou em busca constante de aprimoramento.
+🎓 Olá, me chamo Pedro Felipe, tenho 21 anos e sou fromado em Análise e Desenvolvimento de Sistemas pela UNIT.
+
+Sou apaixonado por tecnologia e, venho me dedicando ao desenvolvimento back-end, com foco em NodeJs. Todos os dias busco aprender algo novo, seja por meio de cursos, projetos pessoais ou desafios práticos. Meu objetivo é me tornar um desenvolvedor back-end com um bom domínio da área e criar soluções que realmente façam a diferença no dia a dia das pessoas.
 
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
