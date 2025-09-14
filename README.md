@@ -22,8 +22,8 @@ Sou apaixonado por tecnologia e, venho me dedicando ao desenvolvimento back-end,
 
   
 	  
- <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/1240310922086453373/1240311943835680818/porco_nave_espacial.png?ex=66461a03&is=6644c883&hm=514e9675e75813418f5b564a2fbc0239f81a1934379d8140a1b114509224feb4&=&format=webp&quality=lossless" alt="Eu em polvo">
-</div>
+<!-- <img align="right" height="200" width="200" src="https://media.discordapp.net/attachments/1240310922086453373/1240311943835680818/porco_nave_espacial.png?ex=66461a03&is=6644c883&hm=514e9675e75813418f5b564a2fbc0239f81a1934379d8140a1b114509224feb4&=&format=webp&quality=lossless" alt="Eu em polvo"> 
+</div>-->
   
   ##
   
