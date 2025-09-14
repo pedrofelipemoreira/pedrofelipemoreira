@@ -4,11 +4,6 @@ Fico feliz em tê-lo(a) no meu perfil do GitHub!
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 4º período. Constantemente envolvida em projetos para solidificar meus conhecimentos, estou em busca constante de aprimoramento.
 
-<div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
 
 **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
