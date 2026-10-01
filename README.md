@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia e, venho me dedicando ao desenvolvimento back-end,
   <a href="https://www.linkedin.com/in/pedro-felipe-7116351a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:pedrofelipemsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/p_felipe" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/_peedrozx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/predo_moreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
   
    ![Snake animation](https://github.com/p-felipebr/p-felipebr/blob/output/github-contribution-grid-snake.svg)
